@@ -66,7 +66,7 @@ The tool will output the list of all links on the page, showing the link titles 
 ![image](https://github.com/user-attachments/assets/55bf6604-a16b-4a4c-b028-2078afd7227f)
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 XTract tool is intended for educational and ethical hacking purposes only. This tool should only be used on passwords or systems that you own or have explicit permission to test. Unauthorized use against any system is illegal and may lead to severe consequences, including legal action.
