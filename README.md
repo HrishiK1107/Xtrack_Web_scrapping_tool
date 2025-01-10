@@ -46,7 +46,7 @@ pip install -r requirements.txt
 Once the setup is complete, run the tool with the following command:
 
 ```bash
-python xtract.py
+sudo python xtract.py
 ```
 
 ### 2. Enter the URL to Scrape
