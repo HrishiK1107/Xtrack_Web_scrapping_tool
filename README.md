@@ -29,7 +29,7 @@ Follow these steps to set up **Xtract** on your machine:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/xtract.git
+git clone https://github.com/HrishiK1107/Xtract_Web_scraping_tool.git
 cd xtract
 ```
 
